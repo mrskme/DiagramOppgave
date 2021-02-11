@@ -1,0 +1,9 @@
+﻿@startuml
+'' UseCaseDiagram
+
+User --> (Start round)
+User --> (Guess)
+User --> (Exit program)
+(Start round) ..> (View info and \nall guesses in round)
+(Guess) ..> (View info and \nall guesses in round)
+@enduml

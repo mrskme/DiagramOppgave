@@ -1,0 +1,14 @@
+﻿@startuml
+'' UseCaseDiagram
+
+User --> (NewGame)
+User --> (SeeLog)
+User --> (ExitGame)
+(NewGame) -->  (SeeInfoAboutTipping)
+(SeeInfoAboutTipping) --> (Guess)
+(Guess) --> (SeeResult)
+(SeeResult) --> (IsCorrect)
+(SeeResult) --> (IsWrong)
+(IsCorrect) --> (Victory)
+(IsWrong) --> (SeeInfoAboutTipping)
+@enduml

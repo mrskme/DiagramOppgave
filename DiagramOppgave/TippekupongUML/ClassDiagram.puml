@@ -1,0 +1,29 @@
+﻿@startuml
+'' ClassDiagram
+
+Class Program {
+new Game
+}
+Class Game {
+new Match
+}
+Class Match {
+new Bet
+homegoals
+awayGoals
+isMatchRunning
+result
+}
+Class FootballTeam {
+name
+isHome
+}
+Class Bet {
+isCorrect
+userChoice
+}
+Program . Game
+Game . Match
+Match . Bet
+
+@enduml

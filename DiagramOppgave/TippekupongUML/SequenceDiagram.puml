@@ -1,0 +1,9 @@
+﻿@startuml
+'' SequenceDiagram
+
+actor User
+
+User -> Program: Start()
+Program -> Game: game.startGame()
+Program -> Game: CheckResult()
+@enduml

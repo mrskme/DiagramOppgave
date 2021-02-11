@@ -1,0 +1,12 @@
+﻿@startuml
+'' DiagramOppgaveUML
+actor User
+
+User -> Program: StartRound()
+opt unfinished game
+	Program -> Game:Game.GiveUp()
+end
+Program -> Game: new Game()
+Program -> Game: Game.Show()
+
+@enduml

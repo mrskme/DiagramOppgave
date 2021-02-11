@@ -1,0 +1,13 @@
+C:\Users\GET\source\repos\DiagramOppgave\DiagramOppgave\bin\Debug\netcoreapp3.1\DiagramOppgave.exe
+C:\Users\GET\source\repos\DiagramOppgave\DiagramOppgave\bin\Debug\netcoreapp3.1\DiagramOppgave.deps.json
+C:\Users\GET\source\repos\DiagramOppgave\DiagramOppgave\bin\Debug\netcoreapp3.1\DiagramOppgave.runtimeconfig.json
+C:\Users\GET\source\repos\DiagramOppgave\DiagramOppgave\bin\Debug\netcoreapp3.1\DiagramOppgave.runtimeconfig.dev.json
+C:\Users\GET\source\repos\DiagramOppgave\DiagramOppgave\bin\Debug\netcoreapp3.1\DiagramOppgave.dll
+C:\Users\GET\source\repos\DiagramOppgave\DiagramOppgave\bin\Debug\netcoreapp3.1\DiagramOppgave.pdb
+C:\Users\GET\source\repos\DiagramOppgave\DiagramOppgave\obj\Debug\netcoreapp3.1\DiagramOppgave.csprojAssemblyReference.cache
+C:\Users\GET\source\repos\DiagramOppgave\DiagramOppgave\obj\Debug\netcoreapp3.1\DiagramOppgave.AssemblyInfoInputs.cache
+C:\Users\GET\source\repos\DiagramOppgave\DiagramOppgave\obj\Debug\netcoreapp3.1\DiagramOppgave.AssemblyInfo.cs
+C:\Users\GET\source\repos\DiagramOppgave\DiagramOppgave\obj\Debug\netcoreapp3.1\DiagramOppgave.csproj.CoreCompileInputs.cache
+C:\Users\GET\source\repos\DiagramOppgave\DiagramOppgave\obj\Debug\netcoreapp3.1\DiagramOppgave.dll
+C:\Users\GET\source\repos\DiagramOppgave\DiagramOppgave\obj\Debug\netcoreapp3.1\DiagramOppgave.pdb
+C:\Users\GET\source\repos\DiagramOppgave\DiagramOppgave\obj\Debug\netcoreapp3.1\DiagramOppgave.genruntimeconfig.cache
