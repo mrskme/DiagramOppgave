@@ -3,7 +3,7 @@
 
 actor User
 
-User -> Program: Start()
+User -> Program: Bet()
 Program -> Game: game.startGame()
 Program -> Game: CheckResult()
 @enduml
