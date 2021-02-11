@@ -6,4 +6,5 @@ actor User
 User -> Program: Bet()
 Program -> Game: game.startGame()
 Program -> Game: CheckResult()
+Game -> Match: 
 @enduml
